@@ -1094,7 +1094,7 @@ blockquote > p:last-of-type:after{
 }
 .main_menu > li > ul{
 	top:100%;
-	margin-top:0;
+	margin-top:2px;
 }
 .main_menu.type_2 > li > ul{
 	margin-top:0;

@@ -16,6 +16,7 @@
 		<link rel="stylesheet" type="text/css" media="all" href="views/template/plugins/jackbox/css/jackbox.min.css">
 		<link rel="stylesheet" type="text/css" media="screen" href="views/template/plugins/rs-plugin/css/settings.css">
 		<!--theme css-->
+        <link rel="stylesheet" type="text/css" media="all" href="views/template/css/font_awesome/css/font-awesome.css">
         <link rel="stylesheet" type="text/css" media="all" href="views/template/css/fullcalendar.css">
 		<link rel="stylesheet" type="text/css" media="all" href="views/template/css/bootstrap.min.css">
 		<link rel="stylesheet" type="text/css" media="all" href="views/template/css/theme-animate.css">

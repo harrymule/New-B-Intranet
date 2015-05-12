@@ -13,23 +13,23 @@ include ('views/includes/slider.php');
         <div class="row" data-appear-animation="fadeInLeft"> 
           <!--item portfolio-->
           <div class="col-lg-4 col-md-4 col-sm-4 m_xs_bottom_30 m_bottom_50">
-            <figure> 
+            <figure class="border-cont"> 
               <!--image-->
-              <div class=" relative color_red  m_bottom_20 db_xs_centered">
+              <div class=" relative color_red  m_bottom_20 db_xs_centered ">
                 <p>Latest News</p>
               </div>
               <!--description-->
               <ul class="vr_list_type_1 color_dark fw_light w_break">
-                <li class="m_bottom_12"> <a href="#" class="color_dark d_inline_b"> <span class="  color_grey_light_5 d_block tr_inherit f_left"> </span> Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Mauris fermentum dictum magna. </a> </li>
-                <li class="m_bottom_12"> <a href="#" class="color_dark d_inline_b"> <span class=" color_grey_light_5 d_block tr_inherit f_left"> </span> Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. </a> </li>
-                <li class="m_bottom_12"> <a href="#" class="color_dark d_inline_b"> <span class=" color_grey_light_5 d_block tr_inherit f_left"> </span> Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. </a> </li>
-                <li class="m_bottom_12"> <a href="#" class="color_dark d_inline_b"> <span class=" color_grey_light_5 d_block tr_inherit f_left"> </span> Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. </a> </li>
-                <li class="m_bottom_12"> <a href="#" class="color_dark d_inline_b"> <span class=" color_grey_light_5 d_block tr_inherit f_left"> </span> Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. </a> </li>
+                <li class="m_bottom_12"> <a href="#" class="color_dark d_inline_b"> <span class="  color_grey_light_5 d_block tr_inherit f_left"> </span> Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing  <i class="fa-angle-double-right"></i> </a> </li>
+                <li class="m_bottom_12"> <a href="#" class="color_dark d_inline_b"> <span class=" color_grey_light_5 d_block tr_inherit f_left"> </span> Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit </a> </li>
+                <li class="m_bottom_12"> <a href="#" class="color_dark d_inline_b"> <span class=" color_grey_light_5 d_block tr_inherit f_left"> </span> Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit </a> </li>
+                <li class="m_bottom_12"> <a href="#" class="color_dark d_inline_b"> <span class=" color_grey_light_5 d_block tr_inherit f_left"> </span> Donec sit amet eros. Lorem ipsum dolor sit amet, consectetuer adipiscing elit </a> </li>
+                
               </ul>
             </figure>
           </div>
           <div class="col-lg-4 col-md-4 col-sm-4 m_xs_bottom_30 m_bottom_50">
-            <figure> 
+            <figure class="border-cont"> 
               <!--image-->
               <div class="color_red relative  m_bottom_20 db_xs_centered">
                 <p>Anouncements</p>
@@ -40,27 +40,28 @@ include ('views/includes/slider.php');
                 <li class="m_bottom_12"> <a href="#" class="color_dark d_inline_b"> <span class=" color_grey_light_5 d_block tr_inherit f_left"> </span> Donec sit amet eros. Lorem </a> </li>
                 <li class="m_bottom_12"> <a href="#" class="color_dark d_inline_b"> <span class=" color_grey_light_5 d_block tr_inherit f_left"> </span> Lorem ipsum dolor sit amet, consect </a> </li>
                 <li class="m_bottom_12"> <a href="#" class="color_dark d_inline_b"> <span class=" color_grey_light_5 d_block tr_inherit f_left"> </span> Donec sit amet eros.  consectetuer </a> </li>
-                <li class="m_bottom_12"> <a href="#" class="color_dark d_inline_b"> <span class=" color_grey_light_5 d_block tr_inherit f_left"> </span> consectetuer adipiscing elit. Donec </a> </li>
+                <li class="m_bottom_12"> <a href="#" class="color_dark d_inline_b"> <span class=" color_grey_light_5 d_block tr_inherit f_left"> </span> consectetuer adipiscing elit. Donec  </a> </li>
                 <li> <a href="#" class="color_dark d_inline_b"> <span class=" color_grey_light_5 d_block tr_inherit f_left"> </span> Donec sit amet eros.  consectetuer </a> </li>
               </ul>
             </figure>
           </div>
           <div class="col-lg-4 col-md-4 col-sm-4 m_xs_bottom_30 m_bottom_50">
-            <div class="panel relative color_red  m_bottom_20 db_xs_centered">
-              <div class="panel-heading">
-                <h3 class="panel-title"><i class="fa fa-tasks"></i> Quick links</h3>
+          <figure class="border-cont"> 
+              <!--image-->
+              <div class="color_red relative  m_bottom_20 db_xs_centered">
+                <p>Quick links</p>
               </div>
-              <div class="panel-body">
-                <ul class="vr_list_type_1 color_dark fw_light w_break">
-                  <li class="m_bottom_12"> <a href="#" class="color_dark d_inline_b"> <span class="  color_grey_light_5 d_block tr_inherit f_left"> </span> Donec sit amet eros. Lorem ipsum </a> </li>
-                  <li class="m_bottom_12"> <a href="#" class="color_dark d_inline_b"> <span class=" color_grey_light_5 d_block tr_inherit f_left"> </span> Donec sit amet eros. Lorem </a> </li>
-                  <li class="m_bottom_12"> <a href="#" class="color_dark d_inline_b"> <span class=" color_grey_light_5 d_block tr_inherit f_left"> </span> Lorem ipsum dolor sit amet, consect </a> </li>
-                  <li class="m_bottom_12"> <a href="#" class="color_dark d_inline_b"> <span class=" color_grey_light_5 d_block tr_inherit f_left"> </span> Donec sit amet eros.  consectetuer </a> </li>
-                  <li class="m_bottom_12"> <a href="#" class="color_dark d_inline_b"> <span class=" color_grey_light_5 d_block tr_inherit f_left"> </span> consectetuer adipiscing elit. Donec </a> </li>
-                  <li> <a href="#" class="color_dark d_inline_b"> <span class=" color_grey_light_5 d_block tr_inherit f_left"> </span> Donec sit amet eros.  consectetuer </a> </li>
-                </ul>
-              </div>
-            </div>
+              <!--description-->
+              <ul class="vr_list_type_1 color_dark fw_light w_break">
+                <li class="m_bottom_12"> <a href="#" class="color_dark d_inline_b"> <span class="  color_grey_light_5 d_block tr_inherit f_left"> </span> Donec sit amet eros. Lorem ipsum </a> </li>
+                <li class="m_bottom_12"> <a href="#" class="color_dark d_inline_b"> <span class=" color_grey_light_5 d_block tr_inherit f_left"> </span> Donec sit amet eros. Lorem </a> </li>
+                <li class="m_bottom_12"> <a href="#" class="color_dark d_inline_b"> <span class=" color_grey_light_5 d_block tr_inherit f_left"> </span> Lorem ipsum dolor sit amet, consect </a> </li>
+                <li class="m_bottom_12"> <a href="#" class="color_dark d_inline_b"> <span class=" color_grey_light_5 d_block tr_inherit f_left"> </span> Donec sit amet eros.  consectetuer </a> </li>
+                <li class="m_bottom_12"> <a href="#" class="color_dark d_inline_b"> <span class=" color_grey_light_5 d_block tr_inherit f_left"> </span> consectetuer adipiscing elit. Donec  </a> </li>
+                <li> <a href="#" class="color_dark d_inline_b"> <span class=" color_grey_light_5 d_block tr_inherit f_left"> </span> Donec sit amet eros.  consectetuer </a> </li>
+              </ul>
+            </figure>
+            
           </div>
         </div>
         <hr class="divider_type_2">
@@ -112,7 +113,7 @@ include ('views/includes/slider.php');
       </section>
       <aside class="col-lg-3 col-md-3 col-sm-3 m_xs_bottom_30 " data-appear-animation="fadeInUp">
         <div class="m_bottom_40 m_xs_bottom_30">
-          <figure> 
+          <figure class="border-contel"> 
             <!--image-->
             <div class="translucent_bg_red color_grey_light_5 relative  m_bottom_20 db_xs_centered">
               <p>Online Processes</p>
@@ -129,7 +130,7 @@ include ('views/includes/slider.php');
           </figure>
         </div>
         <div class="m_bottom_50 m_xs_bottom_30">
-          <figure> 
+          <figure class="border-contel"> 
             <!--image-->
             <div class="translucent_bg_red color_grey_light_5 relative  m_bottom_20 db_xs_centered">
               <p>Online Processes</p>
@@ -146,7 +147,7 @@ include ('views/includes/slider.php');
           </figure>
         </div>
         <div class="m_xs_bottom_0 m_bottom_45 m_xs_bottom_30">
-          <figure> 
+          <figure class="border-contel"> 
             <!--image-->
             <div class="translucent_bg_red color_grey_light_5 relative  m_bottom_20 db_xs_centered">
               <p>Online Processes</p>
