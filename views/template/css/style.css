@@ -518,7 +518,7 @@ mark,
 	color:#cbd0d4;
 }
 .color_grey_light_5{
-	color:#bfc4c8;
+	color:#f0f0f0;
 }
 .color_grey,
 .tweet_time a{
@@ -2505,6 +2505,7 @@ hr{
 }
 .section_offset{
 	padding:63px 0 67px;
+	background-color:#f0f0f0;
 }
 .section_offset_2{
 	padding:70px 0 60px;

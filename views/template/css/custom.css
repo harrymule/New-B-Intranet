@@ -6,6 +6,16 @@
 .p_marger {
 	margin: 20px 20px;
 }
+.padder_m{
+
+	padding: 5px 15px;
+	}
+.m_padder-top {
+	margin-top: 20px ;
+}
+.m_padder-bottom {
+	margin-bottom: 20px ;
+}
 .page-cont {
 	overflow: hidden;
 }
@@ -48,4 +58,23 @@
 .boxed_layout{
 	width:1250px;
 	margin:0 auto;
+}
+.bg_white {
+	background-color:#ffffff;
+	}
+.cal_img {
+	
+	height:300px;
+	}
+.bg_blue_f{
+	background-color:#007fc4;
+	}
+.text_con_white{
+	color:#ffffff;
+	}
+.text_con_white h5, ul li{
+	color:#ffffff;
+	}
+.text_con_white a:hover{
+	color:#e74c3c;
 }
