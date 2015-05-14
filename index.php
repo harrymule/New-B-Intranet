@@ -1,9 +1,6 @@
 <?php
 
 require_once 'controls/modules.php';
-
-
-
 require_once 'modules/data-manager.php';
 require_once 'modules/input_manager.php';
 require_once 'modules/page-manager.php';
@@ -22,7 +19,7 @@ $page_manager = new page_manager();
 
 		
 <!--layout-->
-<div class="wide_layout bg_light"> 
+<div> 
   <!--header markup-->
   <?php $page_manager->include_file('header.php');?>
   

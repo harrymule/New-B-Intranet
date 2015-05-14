@@ -19,17 +19,20 @@
         <link rel="stylesheet" type="text/css" media="all" href="views/template/css/font_awesome/css/font-awesome.css">
         <link rel="stylesheet" type="text/css" media="all" href="views/template/css/fullcalendar.css">
 		<link rel="stylesheet" type="text/css" media="all" href="views/template/css/bootstrap.min.css">
-		<link rel="stylesheet" type="text/css" media="all" href="views/template/css/theme-animate.css">
+		<link rel="stylesheet" type="text/css" href="views/css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="views/css/bootstrap-theme.min.css">
+		<link rel="stylesheet" type="text/css" media="all" href="view/template/css/theme-animate.css">
 		<link rel="stylesheet" type="text/css" media="all" href="views/template/css/style.css">
         <link rel="stylesheet" type="text/css" media="all" href="views/template/css/custom.css">
+        <link rel="stylesheet" type="text/css" href="views/css/styles.css">
 		<!--head libs-->
                
         <script src="views/template/js/jquery-2.1.0.min.js"></script>
+        <script type="text/javascript" src="views/js/jquery.min.js"></script>
+        <script type="text/javascript" src="views/js/bootstrap.min.js"></script>
 		<script src="views/template/plugins/jquery.queryloader2.min.js"></script>
 		<script src="views/template/plugins/modernizr.js"></script>
-        
-        
-        
+ 
 		<script>
 			$('html').addClass('d_none');
 			$(document).ready(function(){
@@ -44,5 +47,12 @@
 				});
 			});
 		</script>
+		<script type="text/javascript">
+  $(document).ready(function() {
+    $('.carousel').carousel({
+      interval: 1200
+    })
+  });
+</script>
 
 	</head>
